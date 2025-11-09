@@ -27,7 +27,7 @@ El contrato se encuentra actualmente desplegado en la **BNB Smart Chain Testnet*
 | Parámetro | Valor |
 | :--- | :--- |
 | **Red** | BNB Smart Chain Testnet (Chain ID: 97) |
-| **Dirección del Contrato** | `0x1a3bd3aa37bcafbdc0ebd9d54ab6ebaf01b157ab` |
+| **Dirección del Contrato** | 0x000 |
 | **Símbolo** | VEDT |
 | **Decimales** | 18 |
 | **Explorador** | [Ver en BscScan](https://testnet.bscscan.com/address/0x1a3bd3aa37bcafbdc0ebd9d54ab6ebaf01b157ab) |
